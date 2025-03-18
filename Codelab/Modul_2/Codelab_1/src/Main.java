@@ -38,3 +38,4 @@ public class Main {
         hewan2.Data1(); // Menampilkan informasi Anjing
     }
 }
+ n
